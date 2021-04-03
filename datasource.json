@@ -1,0 +1,45 @@
+{
+    "scheduleData": [{
+        "Id": 1,
+        "Subject": "Data structure",
+        "Location": "Amriteshwari Hall",
+        "StartTime": "2021-01-11T04:00:00.000Z",
+        "EndTime": "2021-01-11T05:30:00.000Z",
+        "CategoryColor": "#1aaa55"
+    }, {
+        "Id": 2,
+        "Subject": "CS",
+        "Location": "Amma Hall",
+        "StartTime": "2021-01-12T06:30:00.000Z",
+        "EndTime": "2021-01-12T08:30:00.000Z",
+        "CategoryColor": "#357cd2"
+    }, {
+        "Id": 3,
+        "Subject": "Compiler design",
+        "Location": "Space Centre USA",
+        "StartTime": "2021-01-13T04:00:00.000Z",
+        "EndTime": "2021-01-13T05:30:00.000Z",
+        "CategoryColor": "#7fa900"
+    }, {
+        "Id": 4,
+        "Subject": "Network",
+        "Location": "",
+        "StartTime": "2021-01-15T07:30:00.000Z",
+        "EndTime": "2021-01-15T09:00:00.000Z",
+        "CategoryColor": "#ea7a57"
+    }, {
+        "Id": 5,
+        "Subject": "Soft ware engg",
+        "Location": "Amriteshwari hall 2",
+        "StartTime": "2021-01-14T06:30:00.000Z",
+        "EndTime": "2021-01-14T08:30:00.000Z",
+        "CategoryColor": "#00bdae"
+    }, {
+        "RoomId": 9,
+        "Id": 10,
+        "Subject": "Maths",
+        "Description": "Waste oof time.",
+        "StartTime": "2021-01-12T07:30:00.000Z",
+        "EndTime": "2021-01-12T09:00:00.000Z"
+    }]
+}
